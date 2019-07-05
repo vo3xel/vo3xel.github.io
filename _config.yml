@@ -14,6 +14,11 @@ author:
   github_username:  vo3xel
   linkedin_username:  vo3xel
 
+
+# Disqus Comments
+disqus:
+ shortname: vo3xel-github-io
+
 defaults:
   -
     scope:
