@@ -1,7 +1,7 @@
 # Site settings
-title: 'Vo3xel'
+title: 'vo3xel'
 description: 'Michael Spitzer'
-url: 'https://vo3xel.github.io'
+url: 'https://michaelspitzer.at'
 baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
 disqus_shortname: 'vo3xel-github-io'
