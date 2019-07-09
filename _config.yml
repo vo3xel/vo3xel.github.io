@@ -4,7 +4,7 @@ description: 'Michael Spitzer'
 url: 'https://vo3xel.github.io'
 baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
-# disqus_shortname: 'your-disqus-name'
+disqus_shortname: 'vo3xel-github-io'
 
 author:
   name: 'Michael Spitzer'
@@ -13,11 +13,6 @@ author:
   facebook_username: vo3xel
   github_username:  vo3xel
   linkedin_username:  vo3xel
-
-
-# Disqus Comments
-disqus:
- shortname: vo3xel-github-io
 
 defaults:
   -
