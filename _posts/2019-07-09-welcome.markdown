@@ -2,8 +2,8 @@
 layout: post
 title:  "Welcome to my blog"
 date:   2019-07-09 09:00:15
-categories: [jekyll]
-tags: [jekyll]
+categories: [general]
+tags: [general]
 ---
 Welcome to my blog!
 
