@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Welcome to my blog"
+date:   2019-07-09 09:00:15
+categories: [jekyll]
+tags: [jekyll]
+---
+Welcome to my blog!
+
+
+Here you can find all my IT stuff, free time projects and research activities.
+
+
+Michael Spitzer (vo3xel) 
