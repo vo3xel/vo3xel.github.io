@@ -3,7 +3,7 @@ title: 'vo3xel'
 description: 'Michael Spitzer'
 url: 'https://michaelspitzer.at'
 baseurl: '/'
-# google_analytics: 'UA-XXXXXX-X'
+google_analytics: 'UA-143508139-1'
 disqus_shortname: 'vo3xel-github-io'
 
 author:
