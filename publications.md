@@ -7,9 +7,9 @@ layout: page
 permalink: /publications/
 ---
 
-<script>
 coming soon :-)
 
+<script>
 $.get('https://graz.pure.elsevier.com/en/persons/michael-spitzer/publications/?format=rss', function (data) {
     $(data).find("item").each(function () { // or "item" or whatever suits your feed
         var el = $(this);
