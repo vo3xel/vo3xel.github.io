@@ -7,7 +7,7 @@ layout: page
 permalink: /publications/
 ---
 
-A detailed research outputs list is available at: [pure.tugraz.at](https://graz.pure.elsevier.com/en/persons/michael-spitzer)
+A detailed list of research outputs is available at: [pure.tugraz.at](https://graz.pure.elsevier.com/en/persons/michael-spitzer)
 
 * **A Lightweight Framework for Multi-device Integration and Multi-sensor Fusion to Explore Driver Distraction**  
 Lechner, G., Fellmann, M., Festl, A., Kaiser, C., Kalayci, T. E., Spitzer, M. & Stocker, A., May 2019, Advanced Information Systems Engineering - 31st International Conference, CAiSE 2019, Proceedings. Giorgini, P. & Weber, B. (eds.). Berlin: Springer Verlag, p. 80-95 16 p. (Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics); vol. 11483 ).
