@@ -40,17 +40,17 @@ Stocker, A., Spitzer, M., Kaiser, C., ROSENBERGER, M. & Fellmann, M., 4 Apr 2016
 * _Kollaboratives Zeichnen zur Kreativitätsunterstützung_  
 Ebner, M., Spitzer, M. & Aureli, S., 1 Mar 2016, Making-Aktivitäten mit Kindern und Jugendlichen. Handbuch zum kreativen digitalen Gestalten. BoD, p. 108-112
 
-* Project Based Learning: Construction/Production and Assembly of a Planetary Gear Using Open Source Tools, Lego Technic, 3D Printers and Smart Glasses  
+* _Project Based Learning: Construction/Production and Assembly of a Planetary Gear Using Open Source Tools, Lego Technic, 3D Printers and Smart Glasses_  
 Spitzer, M. & Ebner, M., 15 Nov 2016.
 
-* Use cases and architecture of an information system to integrate smart glasses in educational environments  
+* _Use cases and architecture of an information system to integrate smart glasses in educational environments_  
 Spitzer, M. & Ebner, M., 29 Jun 2016, Proceedings of EdMedia: World Conference on Educational Media and Technology 2016. VA: AACE, p. 51-58
 
-* Informationsvernetzungstechnologien im Bereich Automotive Engineering  
+* _Informationsvernetzungstechnologien im Bereich Automotive Engineering_  
 Spitzer, M., Zoier, M. & Fachbach, B., 2015.
 
-* Informationsvernetzungstechnologien im Bereich Automotive Engineering  
+* _Informationsvernetzungstechnologien im Bereich Automotive Engineering_  
 Spitzer, M., Zoier, M. & Fachbach, B., 2015, Mensch und Computer 2015 - Workshopband. Stuttgart: Oldenbourg Wissenschaftsverlag, p. 261-268
 
-* Smart use case design to implement new technologies  
+* _Smart use case design to implement new technologies_  
 Rosenberger, M. & Spitzer, M., 7 Oct 2015.
