@@ -58,3 +58,6 @@ Spitzer, M., Zoier, M. & Fachbach, B., 2015, Mensch und Computer 2015 - Workshop
 
 * **Smart use case design to implement new technologies**  
 Rosenberger, M. & Spitzer, M., 7 Oct 2015.
+
+* **Collaborative Learning Through Drawing on iPads.**  
+Spitzer, M. &Ebner, M., 2015, Proceedings of World Conference on Educational Multimedia, Hypermedia and Telecommunications 2015. VA: AACE, p. 633-642
