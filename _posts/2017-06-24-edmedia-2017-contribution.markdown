@@ -8,11 +8,9 @@ tags: [general, Smart Glasses]
 ---
 
 
-This is a demonstrator for catmull-clark algorithm in react. Everything is computed at the client, no backend calculation involved.
+The EdMedia World Conference on Educational Media and Technology, organised by the Association for the Advancement of Computing in Education (AACE), took place in Washington, DC this year.  
+My contribution was a Project Based Learning (PBL) scenario to construct, produce and assemble a planetary gear with Lego® Technik. This project is an extension of the project which I presented @ the awear16 conference in Stanford last November. I added a qualitative evaluation to deduce new requirements and improvements on the Smart Glasses app.
 
-A running demo is available online [https://michaelspitzer.at/catmull-clark](https://michaelspitzer.at/catmull-clark).
+The project-based learning scenario was developed in the FACTS4WORKERS project to transfer real-world challenges to our research lab. More information about the FACTS4WORKERS project are available on the homepage.
 
-[![Catmull Clark demo]({{ site.url }}/images/catmull-clark.png)](https://youtu.be/apI1ItDgoFE)
-
-## Catmull-Clark algorithm explanation
-A detailed explanation of the Catmull-Clark algorithm is available in [catmull_clark_example.pdf]({{ site.url }}/downloads/catmull_clark_example.pdf).
+The full paper is available on [Researchgate - full paper](https://www.researchgate.net/publication/317664086_Project_Based_Learning_from_the_Idea_to_a_Finished_LEGOR_Technic_Artifact_Assembled_by_Using_Smart_Glasses)
