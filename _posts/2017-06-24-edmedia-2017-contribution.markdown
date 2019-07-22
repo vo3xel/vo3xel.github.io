@@ -7,6 +7,7 @@ permalink: /2017/06/24/edmedia-2017-contribution/
 tags: [general, Smart Glasses]
 ---
 
+![Edmedia 2017 contribution]({{ site.url }}/images/edmedia2017.png "Edmedia 2017 contribution")
 
 The EdMedia World Conference on Educational Media and Technology, organised by the Association for the Advancement of Computing in Education (AACE), took place in Washington, DC this year.  
 My contribution was a Project Based Learning (PBL) scenario to construct, produce and assemble a planetary gear with Lego® Technik. This project is an extension of the project which I presented @ the awear16 conference in Stanford last November. I added a qualitative evaluation to deduce new requirements and improvements on the Smart Glasses app.
