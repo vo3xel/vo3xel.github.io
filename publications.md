@@ -11,8 +11,8 @@ A detailed list of research outputs is available at: [pure.tugraz.at](https://gr
 
 ![ORCID iD]({{site.url}}/images/orcid_16x16.gif) [https://orcid.org/0000-0003-2173-9317](https://orcid.org/0000-0003-2173-9317)
 
-* **A Research Agenda to Deploy Technology Enhanced Learning with Augmented Reality in Industry**
-Spitzer, M., Gsellmann, I., Hebenstreit, M. D., & Ebner, M. (2019). A Research Agenda to Deploy Technology Enhanced Learning with Augmented Reality in Industry. Mensch und Computer 2019-Workshopband.
+* **A Research Agenda to Deploy Technology Enhanced Learning with Augmented Reality in Industry**  
+Spitzer, M., Gsellmann, I., Hebenstreit, M., Damalas, S. & Ebner, M. (2019). A Research Agenda to Deploy Technology Enhanced Learning with Augmented Reality in Industry. Mensch und Computer 2019-Workshopband.
 
 * **A Lightweight Framework for Multi-device Integration and Multi-sensor Fusion to Explore Driver Distraction**  
 Lechner, G., Fellmann, M., Festl, A., Kaiser, C., Kalayci, T. E., Spitzer, M. & Stocker, A., May 2019, Advanced Information Systems Engineering - 31st International Conference, CAiSE 2019, Proceedings. Giorgini, P. & Weber, B. (eds.). Berlin: Springer Verlag, p. 80-95 16 p. (Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics); vol. 11483 ).
